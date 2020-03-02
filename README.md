@@ -1,4 +1,4 @@
-# jupyter
+# Présentation de la spécialité NSI
 
 Dossier de stockage de mes notebooks Jupyter.
 
